@@ -1,0 +1,6 @@
+{
+  "summary":  "Kế hoạch toàn diện nâng cấp và chuẩn hóa toàn bộ hệ thống giọng đọc Tiếng Việt cho ứng dụng:\n- Tùy chọn linh hoạt giữa Giọng Chuẩn Bắc (Hà Nội theo chuẩn SGK Bộ GD&ĐT) và Giọng Chuẩn Nam (Sài Gòn truyền cảm).\n- Chuẩn hóa phát âm bảng chữ cái theo chuẩn âm đánh vần Tiếng Việt lớp 1 (Âm Bờ, Cờ, Dờ, Đờ...).\n- Sửa triệt để lỗi phát âm sai từ vựng (từ 'bé' không bị biến âm thành 'mớ' hay 'ba').\n- Bổ sung bộ điều khiển chọn giọng đọc và thanh chỉnh tốc độ/âm lượng trực quan ngay trên giao diện.",
+  "updatedAt":  "2026-10-11T06:06:45.212731722Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

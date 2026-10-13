@@ -1,0 +1,6 @@
+{
+  "name": "Bé Vui Học - Smart Kids Vietnam",
+  "description": "Ứng dụng học tập tương tác cho trẻ từ 1-12 tuổi (Mầm non & Tiểu học) gồm Tiếng Việt, Toán tư duy, Tiếng Anh với lộ trình chuẩn giáo dục, phát âm chuẩn giọng Bắc, trò chơi giáo dục và hệ thống khen thưởng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
