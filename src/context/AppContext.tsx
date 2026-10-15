@@ -10,6 +10,7 @@ import {
   AgeGroup,
 } from '../types';
 import {
+  INITIAL_PROFILE,
   loadProfile,
   saveProfile,
   loadParentSettings,
